@@ -1,0 +1,79 @@
+body{
+    background: black;
+}
+#container{
+    
+    background-color: #1F2937;
+    width: 550px;
+    height: 550px;
+   margin: 20px auto;
+   border: 5px white solid;
+   border-radius: 12px;
+}
+.divic{
+    margin-left: 40px;
+    margin-top: 100px;
+}
+span{
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    font-weight: bold;
+  
+}
+.never{
+    margin-left: 40px;
+    font-size: 20px;
+    color: #D5D4D8;
+    
+}
+#randpas{
+    color: #10B981;
+    margin-left: 100px;
+}
+button{
+    padding: 10px 45px 10px 45px;
+    background-color: #10B981;
+    color: white;
+    border: 0px;
+    border-radius: 7px;
+ margin-top: 40px;
+ margin-left: 40px;
+ 
+}
+.line{
+
+   margin-left: 40px;
+   margin-right: 40px;
+   height: 0px;
+   border:1px solid #2F3E53;
+}
+input{
+    margin-left: 70px;
+    background-color: #273549;
+    border: 0px;
+    border-radius: 4px;
+    padding: 5px;
+
+}
+#lastdiv{
+    display: flex;
+    
+}
+#diviclast{
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 40px;
+    background-color: #273549;
+    font-size: 15apx;
+}
+#diviclast2{
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 100px;
+    background-color: #273549;
+}
